@@ -11,4 +11,4 @@
 
 ### Application Example
 
-![screenshot](/gtalarico/au-2019-web-apis/blob/master/screenshot.png)
+![screenshot](/screenshot.png)
